@@ -1,0 +1,33 @@
+
+{
+  "name": "Background Variations Studio",
+  "short_name": "BV Studio",
+  "description": "Professional AI-powered background generator for product photography.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "categories": ["productivity", "shopping", "photo"],
+  "shortcuts": [
+    {
+      "name": "New Variation",
+      "short_name": "New",
+      "url": "/",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/3522/3522453.png", "sizes": "192x192" }]
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3522/3522453.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3522/3522453.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

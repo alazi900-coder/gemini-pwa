@@ -1,0 +1,7 @@
+{
+  "name": "Background Variations Studio",
+  "description": "Professional e-commerce tool to generate high-quality background variations for clothing product photos while preserving the original item details.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
